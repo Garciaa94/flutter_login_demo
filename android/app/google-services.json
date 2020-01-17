@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1064352962493",
+    "firebase_url": "https://examenignsof.firebaseio.com",
+    "project_id": "examenignsof",
+    "storage_bucket": "examenignsof.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064352962493:android:922ceed7a7d2ecef0fe4d4",
+        "android_client_info": {
+          "package_name": "com.example.flutterlogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064352962493-3fc6tcgj7m6jbt8di7oshf1hrav10bq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOS67tdmAMorexJuPq2T5WWrM1K_Zz_ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064352962493-3fc6tcgj7m6jbt8di7oshf1hrav10bq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
